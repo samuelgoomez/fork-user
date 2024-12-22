@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "fork-user",
+        "projectKey": "samuelgoomez_fork-user"
+    }
+}
